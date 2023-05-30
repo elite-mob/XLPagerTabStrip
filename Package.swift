@@ -19,7 +19,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "PagerTabStripView",
+    name: "XLPagerTabStrip",
     products: [
         .library(name: "XLPagerTabStrip", targets: ["XLPagerTabStrip"])
     ],
